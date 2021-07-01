@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ad60f4fe83934bd4aab687f20badfcda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - manager: {instanceID: 0}
+  - vaia: {fileID: 8300000, guid: 0f47b7754b169e844ba58244bab28458, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
